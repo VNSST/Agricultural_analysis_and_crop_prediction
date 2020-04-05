@@ -3,3 +3,6 @@ In this project we have extracted agricultural data from various webpages of "da
 The crops used in this project are rice, wheat and cotton.
 
 
+<br>
+<img height="700" src="https://github.com/VNSST/Agricultural_analysis_and_crop_prediction/blob/master/output.PNG" />
+<br>
