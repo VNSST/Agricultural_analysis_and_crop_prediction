@@ -1,0 +1,106 @@
+State,Crop,Profit,Yield,Month of highest rainfall,Month of lowest rainfall,Suggested or not
+Andhra Pradesh,Rice,63851.8391,2921.186,6,1,1
+Andhra Pradesh,Wheat,1,792.55,6,1,0
+Andhra Pradesh,Cotton,1,337.1242004,6,1,0
+Arunachal Pradesh ,Rice,999.586564,1190.479,8,12,1
+Arunachal Pradesh ,Wheat,2388.555551,1641,8,12,1
+Arunachal Pradesh ,Cotton,-1,0,8,12,0
+Assam,Rice,25101.5,1149,9,12,1
+Assam,Wheat,1,1150,9,12,0
+Assam,Cotton,1,106,9,12,0
+Bihar,Rice,3193.019776,1300.151,8,11,1
+Bihar,Wheat,5272.153766,1150,8,11,0
+Bihar,Cotton,-1,0,8,11,0
+Chattisgarh,Rice,730,1177,7,12,1
+Chattisgarh,Wheat,1,1876,7,12,1
+Chattisgarh,Cotton,1,136,7,12,0
+Goa,Rice,30230,2652,7,1,1
+Goa,Wheat,-1,996,7,1,0
+Goa,Cotton,-1,0,7,1,0
+Gujarat,Rice,9390,1610,7,12,0
+Gujarat,Wheat,23280.67708,0,7,12,1
+Gujarat,Cotton,1,373,7,12,1
+Haryana,Rice,35070,2894,7,11,1
+Haryana,Wheat,31028.75,2541,7,11,1
+Haryana,Cotton,1,452,7,11,0
+Himachal Pradesh,Rice,6130,1447,7,11,1
+Himachal Pradesh,Wheat,440.5,1482,7,11,1
+Himachal Pradesh,Cotton,-1,0,7,11,0
+Jammu & Kashmir,Rice,16390,1960,8,1,1
+Jammu & Kashmir,Wheat,1187.75,3979,8,1,1
+Jammu & Kashmir,Cotton,-1,0,8,1,0
+Jharkhand,Rice,16960.0625,1413,7,11,1
+Jharkhand,Wheat,16430.6,1482,7,11,1
+Jharkhand,Cotton,-1,0,7,11,0
+Karnataka,Rice,54404.4688,2561,8,1,1
+Karnataka,Wheat,1,1543,8,1,0
+Karnataka,Cotton,1,219.24,8,1,0
+Kerala,Rice,50972.58333,2197,8,1,1
+Kerala,Wheat,-1,0,8,1,0
+Kerala,Cotton,1,250,8,1,0
+Madhya Pradesh,Rice,1,862,7,5,0
+Madhya Pradesh,Wheat,8658.773077,1630,7,5,1
+Madhya Pradesh,Cotton,1,164,7,5,0
+Maharashtra,Rice,42167.23636,1594,7,1,1
+Maharashtra,Wheat,6362.2,1320,7,1,1
+Maharashtra,Cotton,1,189,7,1,0
+Manipur,Rice,23494.92995,2315,8,12,1
+Manipur,Wheat,-1,0,8,12,0
+Manipur,Cotton,-1,0,8,12,0
+Meghalaya,Rice,11030,1692,9,12,1
+Meghalaya,Wheat,3098.75,1699,9,12,1
+Meghalaya,Cotton,1,172,9,12,0
+Mizoram,Rice,7210,1501,8,12,1
+Mizoram,Wheat,-1,0,8,12,0
+Mizoram,Cotton,1,368,8,12,0
+Nagaland,Rice,8310,1556,8,12,1
+Nagaland,Wheat,3307,1716,8,12,1
+Nagaland,Cotton,1,570,8,12,0
+Orissa,Rice,12210.062,1366,7,1,1
+Orissa,Wheat,1,1446,7,1,0
+Orissa,Cotton,1,327.16,7,1,0
+Punjab,Rice,50910,3686,8,11,1
+Punjab,Wheat,34458.75,4259,8,11,1
+Punjab,Cotton,624.05,563,8,11,1
+Rajasthan,Rice,4630,1372,8,12,1
+Rajasthan,Wheat,25231.7825,2686,8,11,1
+Rajasthan,Cotton,1,282,7,12,0
+Sikkim,Rice,6050,1443,8,1,1
+Sikkim,Wheat,1,1364,8,1,0
+Sikkim,Cotton,-1,0,8,1,0
+Tamil Nadu,Rice,34984.98515,2890,10,2,0
+Tamil Nadu,Wheat,-1,0,10,2,0
+Tamil Nadu,Cotton,1,281.7,10,2,0
+Tripura,Rice,41885.3,2276,8,12,1
+Tripura,Wheat,10816.25,2329,8,12,1
+Tripura,Cotton,1,224,8,12,0
+Uttarakhand,Rice,16050,1943,7,12,1
+Uttarakhand,Wheat,5695.75,1911,7,12,0
+Uttarakhand,Cotton,-1,0,7,12,0
+Uttar Pradesh,Rice,21557.51538,1964,7,11,1
+Uttar Pradesh,Wheat,24372.08936,2634,7,11,1
+Uttar Pradesh,Cotton,1,188,7,11,0
+West Bengal,Rice,47730.59534,2423,7,11,1
+West Bengal,Wheat,20420.31246,2253,7,11,1
+West Bengal,Cotton,1,367.91,7,11,1
+A & N Islands,Rice,33950,0,7,3,1
+A & N Islands,Wheat,-1,0,7,3,0
+A & N Islands,Cotton,-1,0,7,3,0
+Chandigarh,Rice,-1,1717,7,11,0
+Chandigarh,Wheat,-1,0,7,11,0
+Chandigarh,Cotton,-1,0,7,11,0
+D & N Haveli,Rice,11530,1980,7,12,1
+D & N Haveli,Wheat,5156.75,1867,7,12,1
+D & N Haveli,Cotton,-1,0,7,12,0
+Daman & Diu,Rice,16807.64706,150,7,12,1
+Daman & Diu,Wheat,-1,0,7,12,0
+Daman & Diu,Cotton,-1,0,7,12,0
+Delhi,Rice,33230,2802,7,11,1
+Delhi,Wheat,30073.25,3901,7,11,1
+Delhi,Cotton,-1,0,7,11,0
+Lakshadweep,Rice,-1,0,8,3,1
+Lakshadweep,Wheat,-1,0,8,3,0
+Lakshadweep,Cotton,-1,0,8,3,0
+Puducherry,Rice,27390,2510,10,2,1
+Puducherry,Wheat,-1,0,10,2,1
+Puducherry,Cotton,76930.75,4167,10,2,1
